@@ -1,0 +1,84 @@
+body {
+	background-color: white;
+	margin: 5px;
+	font-family: helvetica, arial, sans-serif;
+}
+div#content {
+	background-color: #E6FCFF;
+	position: relative;
+	width: 75%;
+	margin: 50px auto;
+	padding: 10px;
+	border: 2px solid #ccc;
+}
+
+h1{
+	margin: 5px;
+	padding: 5px;
+}
+
+.registerbutton {
+	
+    float:right;
+	margin-right: 10px;
+	margin-top :8px;
+	width: 100px;
+  
+}
+
+p{
+	margin: 5px;
+	padding: 5px;
+}
+/********************************************/
+div#content2 {
+background-color: #BEBCEB;
+
+top: 350px;
+left: 115px;
+width: 75%;
+height: 250px;
+margin: 30px auto;
+padding: 10px;;
+border: 2px solid #ccc;
+}
+
+
+
+.content2 {
+	background-color: #BEBCEB;
+position: relative
+	top: 350px;
+	left: 115px;
+	width: 75%;
+	height: 220px;
+	margin: 30px auto;
+	padding: 10px;;
+	border: 2px solid #ccc;
+	
+}
+.content2title {
+	padding: 10px;
+    font-size: 80%;
+	margin  : 5px;
+}
+.group {
+	display: inline-block;
+    margin: 0 auto;
+    padding: 2px 13px; 
+}
+
+.fieldname {
+	width: 110px;
+	margin: 0;
+}
+.passwordlabel{
+margin-right: 4px;
+}
+
+.signinbutton {
+    float:left;
+    display: inline-block;
+	width: 100px;
+	margin: 10px 12px;
+}
